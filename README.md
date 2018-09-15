@@ -1,11 +1,11 @@
 # Test-Online-System
 ## 一、环境
-1.操作系统 Windows
-2.运行环境 java jdk 1.8
-3.服务器版本 tomcat 7.0
-4.MySQL 版本 5.7(非硬性要求)
-5.运行软件 Eclipse Oxygen
-6.数据库可视化工具navicat
+- 1.操作系统 Windows
+- 2.运行环境 java jdk 1.8
+- 3.服务器版本 tomcat 7.0
+- 4.MySQL 版本 5.7(非硬性要求)
+- 5.运行软件 Eclipse Oxygen
+- 6.数据库可视化工具navicat
 ## 二、步骤
 
 #### 1.打开navicat，新建名为onlinexam的数据库，选择utf-8的编码方式，右击新建的数据库选择运行SQL文件，将项目源码/onlinexam.sql文件导入运行即可。
